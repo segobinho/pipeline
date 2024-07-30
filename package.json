@@ -1,0 +1,11 @@
+{
+    "name": "pipeline",
+    "version": "1.0.0",
+    "description": "Projeto de exemplo para GitHub Pages com GitHub Actions",
+    "scripts": {
+      "build": "echo 'Build step running...'"
+    },
+    "author": "Gabriel segobi de souza",
+    "license": "MIT"
+  }
+  
